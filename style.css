@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffbdf7;
+}
+
+.content {
+  text-align: center;
+  margin: 50% 0 0 0;
+}
+
+.main .bi {
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.g {
+  position: absolute;
+  left: 110px;
+}
+.g2 {
+  position: absolute;
+  right: 110px;
+  transform: scaleX(-1);
+}
